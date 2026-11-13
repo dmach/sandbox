@@ -1,0 +1,31 @@
+*   commit 54371d38957fc60003ba0dd13f48905cd1ef254c
+|\  Merge: b137f80 e873f16
+| | Author: Daniel Mach <daniel.mach@suse.com>
+| | Date:   Fri Nov 13 15:39:22 2026 +0100
+| | 
+| |     Merge pull request #4 from feature/change-2 into factory
+| | 
+| * commit e873f1693a4cc6161a2fcc1569426bb8535d5384
+|/  Author: Daniel Mach <daniel.mach@suse.com>
+|   Date:   Fri Nov 13 15:39:22 2026 +0100
+|   
+|       feature #2
+|   
+*   commit b137f802ff570c78735b7572638da6ef6a020a7d
+|\  Merge: 56db3c4 476bc75
+| | Author: Daniel Mach <daniel.mach@suse.com>
+| | Date:   Fri Nov 13 15:39:21 2026 +0100
+| | 
+| |     Merge pull request #1 from feature/change-1 into factory
+| | 
+| * commit 476bc759c263f96452b9e860de52179c3c403769
+|/  Author: Daniel Mach <daniel.mach@suse.com>
+|   Date:   Fri Nov 13 15:39:21 2026 +0100
+|   
+|       feat: add feature file
+| 
+* commit 56db3c4e7e97058b2117e9801a39bdbcc9047551
+  Author: Daniel Mach <daniel.mach@suse.com>
+  Date:   Fri Nov 13 15:39:21 2026 +0100
+  
+      Initial empty commit
